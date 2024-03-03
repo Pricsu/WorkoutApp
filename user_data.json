@@ -1,0 +1,44 @@
+{
+  "Alfred": {
+    "workouts": [
+      {
+        "workout_name": "Chest",
+        "date": "12/12/2021",
+        "duration": 44
+      }
+    ],
+    "diet": [
+      {
+        "meal_name": "chicken and potato",
+        "date": "12/12/21",
+        "calories": 880
+      },
+      {
+        "meal_name": "chicken and potato",
+        "date": "12/12/21",
+        "calories": 221
+      }
+    ]
+  },
+  "Roland": {
+    "workouts": [
+      {
+        "workout_name": "Chest day",
+        "date": "12/12/2021",
+        "duration": 100.0
+      }
+    ],
+    "diet": [
+      {
+        "meal_name": "potato",
+        "date": "12/12/2022",
+        "calories": 342
+      },
+      {
+        "meal_name": "Chocken",
+        "date": "12/12/1222",
+        "calories": 1222
+      }
+    ]
+  }
+}
